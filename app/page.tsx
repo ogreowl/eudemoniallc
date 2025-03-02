@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <div className="min-h-screen bg-white dark:bg-gray-900">
@@ -58,7 +56,7 @@ export default function Home() {
             Get in Touch
           </h2>
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            Interested in working with us? Let's connect.
+            Interested in working with us? Let&apos;s connect.
           </p>
           <a
             href="mailto:contact@eudemonia.llc"
