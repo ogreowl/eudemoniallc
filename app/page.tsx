@@ -50,6 +50,29 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Our Apps Section */}
+        <section className="mt-20">
+          <h2 className="text-3xl font-bold text-center text-gray-900 dark:text-white mb-12">
+            Coming Soon
+          </h2>
+          <div className="bg-gradient-to-br from-blue-50 to-indigo-50 dark:from-blue-900/20 dark:to-indigo-900/20 rounded-2xl p-8 max-w-3xl mx-auto">
+            <div className="text-center">
+              <h3 className="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-4">
+                SelfHelp AI
+              </h3>
+              <p className="text-lg text-gray-700 dark:text-gray-300 mb-6">
+                Your personal AI-powered companion for mental wellness and self-improvement.
+                Join our waitlist to be among the first to experience a new way of personal growth.
+              </p>
+              <div className="inline-flex items-center justify-center space-x-4">
+                <span className="px-4 py-2 bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-300 rounded-full text-sm font-medium">
+                  Launching Soon
+                </span>
+              </div>
+            </div>
+          </div>
+        </section>
+
         {/* Contact Section */}
         <section className="mt-20 text-center">
           <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-6">
@@ -70,9 +93,20 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-gray-200 dark:border-gray-800">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <p className="text-center text-gray-500 dark:text-gray-400">
-            © {new Date().getFullYear()} Eudemonia LLC. All rights reserved.
-          </p>
+          <div className="flex flex-col items-center space-y-4">
+            <div className="flex space-x-4 text-sm text-gray-500 dark:text-gray-400">
+              <a href="/privacy" className="hover:text-gray-900 dark:hover:text-white">
+                Privacy Policy
+              </a>
+              <span>•</span>
+              <a href="/terms" className="hover:text-gray-900 dark:hover:text-white">
+                Terms of Service
+              </a>
+            </div>
+            <p className="text-center text-gray-500 dark:text-gray-400">
+              © {new Date().getFullYear()} Eudemonia LLC. All rights reserved.
+            </p>
+          </div>
         </div>
       </footer>
     </div>
