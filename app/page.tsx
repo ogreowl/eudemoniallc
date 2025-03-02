@@ -59,7 +59,7 @@ export default function Home() {
             Interested in working with us? Let&apos;s connect.
           </p>
           <a
-            href="mailto:contact@eudemonia.llc"
+            href="mailto:bobby@eudemoniallc.com"
             className="inline-block mt-6 px-8 py-3 rounded-full bg-blue-600 text-white hover:bg-blue-700 transition-colors"
           >
             Contact Us
