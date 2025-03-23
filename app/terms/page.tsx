@@ -18,7 +18,7 @@ export default function Terms() {
               1. Agreement to Terms
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
-              By accessing and using the Self Help AI mobile application ("App") and related services provided by Eudemonia LLC, you agree to be bound by these Terms of Service and agree that you are responsible for compliance with any applicable local laws.
+              By accessing and using the Self Help AI mobile application (&quot;App&quot;) and related services provided by Eudemonia LLC, you agree to be bound by these Terms of Service and agree that you are responsible for compliance with any applicable local laws.
             </p>
           </section>
 
@@ -79,7 +79,7 @@ export default function Terms() {
               <li>Not share your account or subscription with others</li>
               <li>Use the App responsibly and in accordance with these terms</li>
               <li>Not use the App for emergency mental health situations</li>
-              <li>Not engage in any activity that could harm, disable, or impair the App's functionality</li>
+              <li>Not engage in any activity that could harm, disable, or impair the App&apos;s functionality</li>
               <li>Report any security vulnerabilities or violations you discover</li>
             </ul>
           </section>
@@ -89,7 +89,7 @@ export default function Terms() {
               5. Age Restrictions and Parental Consent
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
-              The App is intended for users who are 18 years of age or older. Users under 18 must have parental or legal guardian consent to use the App. Parents or legal guardians who consent to their minor's use of the App are responsible for monitoring their use and ensuring compliance with these terms.
+              The App is intended for users who are 18 years of age or older. Users under 18 must have parental or legal guardian consent to use the App. Parents or legal guardians who consent to their minor&apos;s use of the App are responsible for monitoring their use and ensuring compliance with these terms.
             </p>
           </section>
 
@@ -116,7 +116,16 @@ export default function Terms() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-              8. Termination
+              8. Disclaimer
+            </h2>
+            <p className="text-gray-600 dark:text-gray-300">
+              Self Help AI is provided &quot;as is&quot; without any warranties, expressed or implied. While we strive to provide helpful AI-powered assistance, we do not guarantee that the App will meet your specific requirements or expectations. The App is not a substitute for professional medical, mental health, or therapeutic services. Users should seek professional help for serious mental health concerns.
+            </p>
+          </section>
+
+          <section className="mb-8">
+            <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
+              9. Termination
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
               We reserve the right to suspend or terminate your access to the App at any time, without prior notice or liability, for any reason, including without limitation if you breach these Terms of Service. Upon termination, your right to use the App will immediately cease. All provisions of these Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.
@@ -125,7 +134,7 @@ export default function Terms() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-              9. Emergency Services Disclaimer
+              10. Emergency Services Disclaimer
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
               Self Help AI is not an emergency service. If you are experiencing thoughts of self-harm, suicide, or require immediate medical attention, please contact emergency services immediately:
@@ -139,16 +148,16 @@ export default function Terms() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-              10. Indemnification
+              11. Indemnification
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
-              You agree to indemnify, defend, and hold harmless Eudemonia LLC, its officers, directors, employees, agents, licensors, and suppliers from and against all losses, expenses, damages, and costs, including reasonable attorneys' fees, resulting from any violation of these Terms of Service or any activity related to your account.
+              You agree to indemnify, defend, and hold harmless Eudemonia LLC, its officers, directors, employees, agents, licensors, and suppliers from and against all losses, expenses, damages, and costs, including reasonable attorneys&apos; fees, resulting from any violation of these Terms of Service or any activity related to your account.
             </p>
           </section>
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-              11. Governing Law
+              12. Governing Law
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
               These Terms shall be governed by and construed in accordance with the laws of the State of California, United States, without regard to its conflict of law provisions. Any legal action or proceeding arising out of or relating to these Terms shall be exclusively brought in the federal or state courts located in California.
@@ -157,7 +166,7 @@ export default function Terms() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-              12. Changes to Terms
+              13. Changes to Terms
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
               We reserve the right to modify these terms at any time. We will notify users of any material changes through the App or via email. Continued use of the App after such modifications constitutes acceptance of the updated terms. It is your responsibility to review these Terms periodically for changes.
@@ -166,7 +175,7 @@ export default function Terms() {
 
           <section className="mb-8">
             <h2 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-              13. Contact Information
+              14. Contact Information
             </h2>
             <p className="text-gray-600 dark:text-gray-300">
               If you have any questions about these Terms of Service or the App, please contact us at:{" "}
